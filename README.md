@@ -6,6 +6,7 @@
 
 
 ## About me
+<!-- TO DO: add more details about me later -->
 
 Hi, I'm Abraham.
 
