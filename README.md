@@ -11,7 +11,7 @@ Hi, I'm Abraham.
 
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top Languages To RAnk</summary>
 
 | Rank | Languages     |
 |-----:|---------------|
@@ -21,3 +21,5 @@ Hi, I'm Abraham.
 </details>
 
 
+---
+> If we pull together and commit ourselves, then we can push through anything.
