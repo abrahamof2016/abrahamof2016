@@ -1,19 +1,9 @@
-## About me
+## Hello, I am Abreham
 <!-- TO DO: add more details about me later -->
-
-Hi, I'm Abraham.
-
-
+### I am glad to see you here!
 <details>
-<summary>My top Languages To RAnk</summary>
-
-| Rank | Languages     |
-|-----:|---------------|
-|     1|  c            |
-|     2|  python       |
-|     3|  c++          |
+Software Engineer | Backend Developer with a knowledge of FrontEnd | I love solving real life problems.
 </details>
 
-
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> Finding my path in life is my goal in life.
