@@ -1,9 +1,6 @@
-# Hello, I am Abreham
+# Hello, I am Abraham
 <!-- TO DO: add more details about me later -->
 
 ## I am happy to see you here!
 
-Software Engineer | Backend Developer with a knowledge of FrontEnd | Computer Engineer
-
----
-> Finding my path in life is my goal in life.
+FullStack Software Engineer| Computer Engineer
