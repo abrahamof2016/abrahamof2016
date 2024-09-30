@@ -3,4 +3,4 @@
 
 ## I am happy to see you here!
 
-Full-Stack Software Engineer || Computer Engineer
+Backend Software Engineer || Computer Engineer
